@@ -1,0 +1,15 @@
+.app-container {
+  height: 100vh;
+}
+
+.nav-bar-container {
+  background-color: #2c0e3a;
+}
+
+.items-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+}
